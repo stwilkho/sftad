@@ -22,7 +22,7 @@ export default function Sidebar() {
                   <FaShip size={25} className="hover:text-white" />
                 </span>
                 <span className="flex flex-wrap">
-                  <Link href={"/"} >Skipper submissions</Link>
+                  <Link href={"/skipper-sub"} >Skipper submissions</Link>
                   <span className="text-[10px]">Manage Fishing Logs</span>
                 </span>
               </div>
